@@ -1,6 +1,8 @@
 Enigma
 ======
 
+(Created by @biswaz)
+
 Django app for online treasure hunt, conducted at GEC Palakkad, Kerala
 
 .. image:: https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg
